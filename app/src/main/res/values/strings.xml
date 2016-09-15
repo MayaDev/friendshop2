@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FriendShop</string>
+    <string name="facebook_app_id">136252230118268</string>
+    <string name="facebook_login_status_onsuccses">Facebook login completed succesfully. welcome to FriendShop!</string>
+    <string name="facebook_login_status_oncancel">In order to enjoy friendShop with friends you need to login with facebook</string>
+    <string name="facebook_login_status_onerror">Facebook login failed, please try again.</string>
+    <string name="title_activity_stores">storesActivity</string>
+    <string name="stores_choose_brand">Choose a brand to start your shopping</string>
+</resources>

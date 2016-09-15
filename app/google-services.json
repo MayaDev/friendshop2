@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "505985963877",
+    "firebase_url": "https://project-5994471797473691923.firebaseio.com",
+    "project_id": "project-5994471797473691923",
+    "storage_bucket": "project-5994471797473691923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505985963877:android:058bb1f411f3cc79",
+        "android_client_info": {
+          "package_name": "app.com.wordpress.yesdevpro.friendshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505985963877-gt1sers420hgsjntic5ategokooltn7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmVVerV8GQ2Ck6CPtaioCVxHNrw8tx-nc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
